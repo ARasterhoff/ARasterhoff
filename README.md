@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">Software Developer op zoek naar uitdaging</h3>
+<h3 align="center">Software Developer looking for new challenges</h3>
 
 - 🌱 I’m currently learning **PHP with Laravel, Python**
 
