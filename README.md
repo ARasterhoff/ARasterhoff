@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">Software Developer looking for new challenges</h3>
 
-- 🌱 I’m currently learning **PHP with Laravel, Python**
+- 🌱 I’m currently learning **VueJS, Python**
 
 - 📫 How to reach me **alexrasterhoff02@gmail.com**
 
