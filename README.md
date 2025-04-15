@@ -1,9 +1,4 @@
 <h1 align="center">I'm Alex</h1>
-<h3 align="center">Software Developer</h3>
-
-- 🌱 I’m currently learning **Python**
-
-- 📫 How to reach me **alexrasterhoff02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
