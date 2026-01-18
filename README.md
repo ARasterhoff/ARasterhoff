@@ -6,4 +6,9 @@ I work with:
 - HTML5 and CSS (including Tailwind CSS)
 - JavaScript with lightweight, practical tools like Alpine.js  
 - PHP 8, including database connections and data manipulation  
+- Git for version management and development workflow  
 - WordPress and its ecosystem of practical plugins
+
+### Getting into / Interested in
+- **WordPress with plugins**, because it enables building slick websites while still allowing customers to manage their own content.  
+- **Python**, particularly for web scraping.
